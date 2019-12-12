@@ -1,0 +1,22 @@
+html{
+    background-color: beige
+}
+
+.button{
+    background-color:gray;
+    border: none;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    cursor: pointer;
+    position: relative;
+    margin: 6px 12px;
+    padding: 25px;
+    border-radius: 8px;
+   
+}
+.buttons{
+    position: absolute;
+    top: 40%;
+    left: 35%
+}
